@@ -85,7 +85,3 @@ Allt arbete genomfördes gemensamt under projektets gång.
 Henrik delade skärm under arbetets gång och gruppen skrev, testade och analyserade koden tillsammans.
 
 ---
-
-# Författare
-
-Grupprojekt inom kursen Deep Learning.
